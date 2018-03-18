@@ -10,7 +10,7 @@
 
 ### Deployment
 
-Follow this link to the [Task-List-App](https://captnwalker.github.io/task-list-app/) on the Web
+Follow this link to the [Loan-Calculator](https://captnwalker.github.io/loan-calculator/) on the Web
 
 ### Technologies
 
