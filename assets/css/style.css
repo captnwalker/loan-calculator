@@ -3,5 +3,28 @@
 }
 
 h1, h5 {
-    color: green;
+    color: rgb(80, 170, 80);
+    text-shadow: 2.3px 2.3px rgb(71, 41, 11);
+}
+
+body {
+    background: url(../img/brown-bg.jpg);
+}
+
+.card {
+    background: rgba(255, 255, 255, .6);
+}
+
+.btn {
+    background: rgb(80, 170, 80);
+    color: rgb(71, 41, 11);
+    font-weight: 700;
+    border-style: none;
+}
+
+.input-group-text {
+    background: rgb(80, 170, 80);
+    color: rgb(71, 41, 11);
+    font-weight: 700;
+    border-style: none;
 }
