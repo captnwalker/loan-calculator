@@ -12,6 +12,10 @@
 
 Follow this link to the [Loan-Calculator](https://captnwalker.github.io/loan-calculator/) on the Web
 
+### Screenshot of this Project
+
+![Loan Calculator App](https://raw.github.com/captnwalker/loan-calculator/master/assets/img/loan1.gif "Loan Calculator App")
+
 ### Technologies
 
 * "Vanilla" JavaScript

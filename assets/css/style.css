@@ -2,9 +2,9 @@
     display:none;
 }
 
-h1, h5 {
+h1, h3 {
     color: rgb(80, 170, 80);
-    text-shadow: 2.3px 2.3px rgb(71, 41, 11);
+    text-shadow: 2.1px 2.1px rgb(71, 41, 11);
 }
 
 body {
@@ -12,7 +12,8 @@ body {
 }
 
 .card {
-    background: rgba(255, 255, 255, .6);
+    background: rgba(255, 255, 255, .5);
+    border-radius: 10px;
 }
 
 .btn {
